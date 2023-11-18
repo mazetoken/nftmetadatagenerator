@@ -4,7 +4,7 @@ Install [Nodejs](https://nodejs.org)
 
 Edit `createMetadata.js` for your needs (token name, image url, attributes, number of NFTs metadata to generate - line 58)
 
-Copy or clone the repository
+Copy or clone the repository and delete files from metaAll and metaSplit folders (sample files)
 
 Open a command line and navigate to nftmetadatagenerator
 

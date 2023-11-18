@@ -1,0 +1,202 @@
+[
+  {
+    "name": "MyNFT #1",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../1.png",
+    "fullimage": "ipfs://bafy.../1.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "1"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #2",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../2.png",
+    "fullimage": "ipfs://bafy.../2.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "2"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #3",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../3.png",
+    "fullimage": "ipfs://bafy.../3.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "3"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #4",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../4.png",
+    "fullimage": "ipfs://bafy.../4.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "4"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #5",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../5.png",
+    "fullimage": "ipfs://bafy.../5.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "5"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #6",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../6.png",
+    "fullimage": "ipfs://bafy.../6.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "6"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #7",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../7.png",
+    "fullimage": "ipfs://bafy.../7.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "7"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #8",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../8.png",
+    "fullimage": "ipfs://bafy.../8.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "8"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #9",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../9.png",
+    "fullimage": "ipfs://bafy.../9.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "9"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  },
+  {
+    "name": "MyNFT #10",
+    "description": "NFT description",
+    "image": "ipfs://bafy.../10.png",
+    "fullimage": "ipfs://bafy.../10.png",
+    "attributes": [
+      {
+        "trait_type": "NFT serial number",
+        "value": "10"
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      },
+      {
+        "trait_type": "...",
+        "value": "..."
+      }
+    ]
+  }
+]

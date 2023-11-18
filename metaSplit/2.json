@@ -1,0 +1,20 @@
+{
+  "name": "MyNFT #2",
+  "description": "NFT description",
+  "image": "ipfs://bafy.../2.png",
+  "fullimage": "ipfs://bafy.../2.png",
+  "attributes": [
+    {
+      "trait_type": "NFT serial number",
+      "value": "2"
+    },
+    {
+      "trait_type": "...",
+      "value": "..."
+    },
+    {
+      "trait_type": "...",
+      "value": "..."
+    }
+  ]
+}
